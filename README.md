@@ -1,5 +1,3 @@
-Hi Team 1, 
-
 # Welcome to the Security Game Day
 
 We have 2 types of problems here, The individual challenges and Team Challenges
