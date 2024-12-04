@@ -5,7 +5,7 @@ There are 12 challenges in the individual section and 1 Team challenge. Each Tea
 Once you solve the problem, check the corresponding entry on the follwoing list. 
 
 # Good Luck 👍
-
+Yes
 # Individual problem Checklist
 
 - [ ] Download File
